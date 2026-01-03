@@ -1,2 +1,3 @@
 打开百度 https://www.baidu.com
-okok
+http://jamcz.com/
+https://cn.bing.com
